@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-html-css-flexbox-Nid2C-35fK
+- Live Site URL: https://leon2610.github.io/product-preview-card-component-challenge/
 
 ## My process
 
